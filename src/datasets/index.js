@@ -81,7 +81,7 @@ export const HTX_IMMERSIVE_2020_COHORT = [
 
 export const HTX_IMMERSIVE_JUNE_2020_COHORT = [
 	'dgelok',
-	'cmbbarbo',
+	'CainanB',
 	'woody-connell',
 	'CM-David',
 	'joevarghese',
